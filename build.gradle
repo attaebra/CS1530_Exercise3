@@ -26,7 +26,6 @@ task sequencehelp << {
     println "the Lazy Caterer sequence. Triangle number equence is determined"
     println "by adding each between n and 0 together. The Lazy Caterer is calculates"
     println "the number of cuts from a pie with n cuts."
-    println "possible cuts from a pie with n cuts"
     println "_________________________"
     println "To run the program enter the first argument as \"lazy\" or \"triangle\""
 	println "followed by a positive integer for the second argument."
